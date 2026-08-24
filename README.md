@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushi-2564/DSA/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Ayushi-2564/DSA/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

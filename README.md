@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushi-2564/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Ayushi-2564/DSA/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Ayushi-2564/DSA/tree/master/0904-fruit-into-baskets) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Monotonic Stack
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushi-2564/DSA/tree/master/0042-trapping-rain-water) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushi-2564/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushi-2564/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ayushi-2564/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushi-2564/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushi-2564/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ayushi-2564/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushi-2564/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushi-2564/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ayushi-2564/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayushi-2564/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ayushi-2564/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Ayushi-2564/DSA/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
@@ -182,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayushi-2564/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |

@@ -9,19 +9,19 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
- #include <algorithm>
+ #include <unordered_set>
 class Solution {
 public:
-    bool fun(TreeNode* root, int k,vector<int>& mp){
+    bool fun(TreeNode* root, int k,unordered_set<int>& mp){
        
         if(root==NULL)return false;
-        if(count(mp.begin(), mp.end(),root->val))return true;
-         mp.push_back(k - root->val);
+        if(mp.count(k-root->val))return true;
+         mp.insert(root->val);
         return fun(root->left, k, mp) || fun(root->right, k, mp);
        
     }
     bool findTarget(TreeNode* root, int k) {
-        vector<int>mp;
+        unordered_set<int>mp;
       return  fun(root, k,mp);
 
     }

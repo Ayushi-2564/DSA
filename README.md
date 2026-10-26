@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ayushi-2564/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushi-2564/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ayushi-2564/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ayushi-2564/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ayushi-2564/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Ayushi-2564/DSA/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ayushi-2564/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayushi-2564/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -250,4 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ayushi-2564/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

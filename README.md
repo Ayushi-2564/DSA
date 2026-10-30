@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushi-2564/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Ayushi-2564/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushi-2564/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushi-2564/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushi-2564/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Ayushi-2564/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Ayushi-2564/DSA/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi-2564/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
@@ -250,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushi-2564/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ayushi-2564/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ayushi-2564/DSA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ayushi-2564/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayushi-2564/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Ayushi-2564/DSA/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -274,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayushi-2564/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -282,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayushi-2564/DSA/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

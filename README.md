@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayushi-2564/DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Ayushi-2564/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushi-2564/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ayushi-2564/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Ayushi-2564/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushi-2564/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushi-2564/DSA/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ayushi-2564/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayushi-2564/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Ayushi-2564/DSA/tree/master/1631-path-with-minimum-effort) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Ayushi-2564/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

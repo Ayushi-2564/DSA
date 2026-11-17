@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayushi-2564/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayushi-2564/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ayushi-2564/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Ayushi-2564/DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayushi-2564/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayushi-2564/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushi-2564/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ayushi-2564/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Ayushi-2564/DSA/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/Ayushi-2564/DSA/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayushi-2564/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Ayushi-2564/DSA/tree/master/0042-trapping-rain-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ayushi-2564/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/Ayushi-2564/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushi-2564/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ayushi-2564/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Ayushi-2564/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
